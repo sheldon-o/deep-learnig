@@ -1,5 +1,6 @@
 # deep-learnig
-cnn=convolution neural networks
+<p>cnn=convolution neural networks</p>
+
 rnn = reccurent neural networks
 supervised learning =test cases are provided
 structured data = have meanings
