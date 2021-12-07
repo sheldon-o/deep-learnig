@@ -8,3 +8,11 @@ on given input  neural network create input features and give output.
  structured data and unstructured data
  size numbers and audio image 
  
+ #binary classificatio?
+ it is a cat or not. it is yes or no ,1 or 0
+ we have an image and each pixel is a value of 3 color code(rbg from 0 to255)
+ we have to convert the values into  input feature vector,
+ 
+ #logistic regression?
+ 
+ 
